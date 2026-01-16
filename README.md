@@ -1,21 +1,21 @@
 Hi 👋 My name is Segun Ade-Martins
 ==================================
 
-Data Analyst and Writer
+Marketing Data Analyst and Writer
 -----------------------
 
-I'm a content-first designer with a business development background. My aim is to support organisations by collecting data-driven insights and crafting experiences aligned with customer satisfaction and company goals.
+I'm a content-first designer and marketing specialist with a background in visual arts, education, entertainment, and business development. My aim is to support organisations by trouble shooting tricky problems with an innovative methodology using data-driven insights and crafting experiences aligned with customer satisfaction and company goals.
 
-*   🌍  I'm based in United Kingdom
+*   🌍  I'm based in the United Kingdom
 *   ✉️  Contact me at [adesegun.ademartins@gmail.com](mailto:adesegun.ademartins@gmail.com)
 *   🧠  currently learning Data storytelling, SQL, Power BI, Python, and Pandas
 *   🤝  I'm open to collaborating on Data and business analysis
 
 
 ### Goals
-* Master Data Storytelling
-* Land a Data Analyst Role
-* Combine data with Content Design and Service Design 
+* To master Data Storytelling
+* Land a Data Analyst/marketing role
+* Combine data skills with Content Design and Service Design 
 * To deliver impactful customer experiences:
     * In the arts
     * E-commerce
@@ -55,4 +55,5 @@ I'm a content-first designer with a business development background. My aim is t
 
 ### Badges
 <b>My GitHub Stats</b>
+
 <ahref="http://www.github.com/dreamsmartins"><img src="https://github-readme-stats.vercel.app/api?username=dreamsmartins&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dreamsmartins's GitHub stats" /></a>
